@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 //        }
 
         //为TabLayout添加tab名称
+//        tabLayout.addTab(tabLayout.newTab().setCustomView()); // 通过该方法可添加自定义的tab视图
 //        tabLayout.addTab(tabLayout.newTab().setText(tabList.get(0)));
 //        tabLayout.addTab(tabLayout.newTab().setText(tabList.get(1)));
 //        tabLayout.addTab(tabLayout.newTab().setText(tabList.get(2)));
